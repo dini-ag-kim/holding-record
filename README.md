@@ -1,6 +1,6 @@
 # Holding Record
 
-This is a proposal for another micro-ontology. Since the [Holding Ontology] describes the item itself, this ontology may describe all the information we have in our holding records but isn't described by the [Holding Ontology].
+This is a proposal for another micro ontology. Since the [Holding Ontology] describes the item itself, this ontology may describe all the information we have in our holding records but isn't described by the [Holding Ontology].
 
 ## Ideas
 
